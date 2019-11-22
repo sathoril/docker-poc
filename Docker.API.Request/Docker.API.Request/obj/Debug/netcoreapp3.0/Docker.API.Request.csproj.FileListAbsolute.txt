@@ -1,0 +1,17 @@
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\Docker.API.Request.csprojAssemblyReference.cache
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\staticwebassets\Docker.API.Request.StaticWebAssets.Manifest.cache
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\staticwebassets\Docker.API.Request.StaticWebAssets.xml
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\Docker.API.Request.AssemblyInfoInputs.cache
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\Docker.API.Request.AssemblyInfo.cs
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\appsettings.json
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Docker.API.Request.exe
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Docker.API.Request.deps.json
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Docker.API.Request.runtimeconfig.json
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Docker.API.Request.runtimeconfig.dev.json
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Docker.API.Request.dll
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\bin\Debug\netcoreapp3.0\Docker.API.Request.pdb
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\Docker.API.Request.RazorTargetAssemblyInfo.cache
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\Docker.API.Request.dll
+C:\ProjetosPessoais\docker-poc\Docker.API.Request\Docker.API.Request\obj\Debug\netcoreapp3.0\Docker.API.Request.pdb

@@ -1,0 +1,25 @@
+version: "3"
+
+services:
+ docker.api.listener:
+  container_name: docker.api.listener
+  image: docker.api.listener
+  build:
+   context: ./
+   dockerfile: ./Docker.API.Listener/Dockerfile
+  ports:
+    - "8085:80"
+  
+ docker.api.request:
+  container_name: docker.api.request
+  image: docker.api.request
+  build:
+   context: ./
+   dockerfile: ./Docker.API.Request/Dockerfile
+  ports:
+    - "8082:80"
+
+networks:
+ default:
+  driver: bridge  
+
